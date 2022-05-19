@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AlbinDalbert
+- 👋 Hi, I’m Albin Dalbert
 - 👀 I’m interested in Blockchain, decentralization, algorythms. Prefer back-end over front-end. Also make music on the side.
-- 🌱 I’m currently studying at uni and playing around with a raspberry pi. (https://albindalbert.dev is hosted on it)
-- 💞️ I’m looking to collaborate on making a game, it's a good way for me to be able to incorporate my music and art interest aswell as programming.
+- 🌱 I’m currently making an app and looking into Azure
 - 📫 How to reach me albin.dalbert@protonmail.com
 
 <!---
