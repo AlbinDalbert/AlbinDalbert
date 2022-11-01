@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albin Dalbert
-- 👀 I’m interested in Blockchain, decentralization, algorythms. Prefer back-end over front-end. Also make music on the side.
-- 🌱 I’m currently making an app and looking into Azure
+- 👀 I’m interested algorythms and low level programming. Prefer back-end over front-end. Also make music on the side.
+- 🌱 I’m currently doing stuff with rust and the bevy engine.
 - 📫 How to reach me albin.dalbert@protonmail.com
 
 <!---
