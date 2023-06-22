@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albin Dalbert
 - 👀 I’m [REDACTED] and Prefer [REDACTED]. Also [REDACTED] on the side.
-- 🌱 Rust.
+- 🌱 I like to code in [REDACTED].
 
 <!---
 AlbinDalbert/AlbinDalbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
