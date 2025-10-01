@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Albin Dalbert
-- 🌱 I like to code in [REDACTED].
-- **DISCLAIMER:** This profile is not officially recognised by the Rust Foundation
+-  I’m Albin Dalbert
+- ❄️ I am working on my own notetaking app with default linking. *Fractal* and *Amanite*
 
 <!---
 AlbinDalbert/AlbinDalbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
