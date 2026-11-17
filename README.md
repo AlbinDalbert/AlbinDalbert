@@ -6,7 +6,7 @@ I run a private cloud at home: Kubernetes across 3 machines, GPUs for local LLMs
    ```
    arrakeen (Pi, control plane) ── caladan (3× GPU) ── sietch-tabr
       ├─ meridian + xebec        → agent harness + chat UI
-      ├─ llama-server, qwen3-tts → local LLM + TTS on GPU
+      ├─ llama-server, sonar     → local LLM + TTS on GPU
       ├─ seabed                  → git-backed Obsidian vault, synced from every device
       ├─ albindalbert.dev        → the site
       └─ game servers            → Minecraft, Valheim for friends
